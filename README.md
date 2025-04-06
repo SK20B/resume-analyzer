@@ -1,9 +1,10 @@
-📄 Resume Classification using NLP & Logistic Regression
+# resume-analyzer
+ Resume Classification using NLP & Logistic Regression
 This project focuses on classifying resumes into various job categories using Natural Language Processing (NLP) techniques and a Logistic Regression model. The goal is to automate resume screening by identifying the category of a resume, such as Data Science, HR, Sales, etc.
 
 📦 Libraries Used
-pandas, numpy – Data manipulation
-
+pandas
+numpy – Data manipulation
 matplotlib, seaborn – Visualization
 
 nltk – Text preprocessing and tokenization
@@ -104,4 +105,4 @@ Deploy model using Flask or Streamlit
 
 👨‍💻 Author
 Built with ❤️ using Python and scikit-learn
-# resume-analyzer
+
